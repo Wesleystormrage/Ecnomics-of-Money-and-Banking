@@ -14,7 +14,7 @@ price level（物价）。前三种分别
 ），而且很有意思的是，这三种
 价格正好构成了桥梁，将不同价值
 的货币链接在了一起。
-![](https://github.com/Wesleystormrage/Ecnomics-of-Money-and-Banking/blob/35320a1742019cd403ce98d6e60d2f9531eb977e/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20221127235647.jpg)
+![](https://github.com/Wesleystormrage/Ecnomics-of-Money-and-Banking/blob/main/money_hierarchy.jpg)
 <p>你可能注意到了我这里用了“不同
 价值”一词，这其实是为了强调货
 币本身存在不同的信用层级，有些
