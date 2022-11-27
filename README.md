@@ -1,11 +1,11 @@
 # Ecnomics-of-Money-and-Banking
-<p>之前b站主页给我推了这门课的一
+之前b站主页给我推了这门课的一
 个视频，并且起了一个很有意思的
 标题，叫”four prices of 
-money”，这周都在看这门课。
+money”，这周都在看这门课。  
 好像明白了一点东西，但还总有地
 方想不明白（魔鬼总是藏在细节里）。
-<p>课中提到的四种价格分别是
+课中提到的四种价格分别是
 exchange rate（兑率）、par（票
 面价值，绝大部分情况为
 1:1）、interest rate（利率） 和
@@ -13,8 +13,8 @@ price level（物价）。前三种分别
 是不同货币之间的兑换价格（如图
 ），而且很有意思的是，这三种
 价格正好构成了桥梁，将不同价值
-的货币链接在了一起。
-![](https://github.com/Wesleystormrage/Ecnomics-of-Money-and-Banking/blob/main/money_hierarchy.jpg)
+的货币链接在了一起。  
+![](https://github.com/Wesleystormrage/Ecnomics-of-Money-and-Banking/raw/main/money_hierarchy.jpg)
 <p>你可能注意到了我这里用了“不同
 价值”一词，这其实是为了强调货
 币本身存在不同的信用层级，有些
